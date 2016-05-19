@@ -4,55 +4,44 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>/* map-js */</title>
-<!--     <link rel=stylesheet href=bower_components/strong-css/dist/css/strong.css> -->
-    <link rel=stylesheet href=bower_components/bootstrap/dist/css/bootstrap.min.css>
-    <link rel=stylesheet href=bower_components/bootstrap/dist/css/bootstrap-theme.min.css>    
-
+    <title>/* strong-js */</title>
+    <link rel=stylesheet href=bower_components/strong-css/dist/css/strong.css>
     </head>
-    <style>
-
-    #map {
-      background: red;
-    }
-    .details {
-     width: 400px;
-     height: 533px;
-     background: yellow;
-    }
-    img {
     
-    }
-    </style>
     <body class=app--thestrongelement id=thestrongelement-com>
         <div class="ui" role=application>
+          <header class="panel__ app__header">
+            <strong id=logo--thestrongelement>The <code>strong</code> element</strong>
+          </header>
           <main class="app__main page--index" role=main>
 
 
-
-
-<div class="row">
-
-    <div class="col-md-6 col-md-offset-1 col-sm-12">
-<div id=map>
-map
-</div>
-<img src=map.png>
-
-
-    </div>
-    <div class="col-md-2 col-sm-12">
-
-<div class="details">
-rollover details
-</div>
-
-    </div>
-
-  </div>
-
-
+           <ul class="navlist--flex">
+             <li class="item__"><span id="years"></span> Years</li>
+             <li class="item__"><span id="months"></span> Months</li>
+             <li class="item__"><span id="days"></span> Days</li>
+           </ul>
+            
+            
+            <section id=menu class=ui__panel>
+            
+              <ul class="navlist--flex">
+                <li class="item__" data-id="1"><span class="title__">Vestibulum</span><span class="count__">257</span></li>
+                <li class="item__" data-id="2"><span class="title__">Suspendisse</span><span class="count__">192</span></li>
+                <li class="item__" data-id="3"><span class="title__">Proin</span><span class="count__">170</span></li>
+                <li class="item__" data-id="4"><span class="title__">Etiam</span><span class="count__">122</span></li>
+              </ul>
+              
+            
+            </section>
+            <div id=test>
+            hi
+            </div>
           </main>
+          <footer>
+            &copy; 2016 The Strong Element Company
+          </footer>
+      
       
       </div>
       <script src=/js/strong.js></script>
