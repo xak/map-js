@@ -1,0 +1,18 @@
+{
+  "places":[
+    {
+      "name": "900 NMA Shops",
+      "coords": { 
+        "x": 189, 
+        "y": 47 
+      } 
+    },
+    {
+      "name": "Hancock Tower",
+      "coords": { 
+        "x": 249, 
+        "y": 82 
+      } 
+    }  
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "markers": [ 
+    ['663 Mag Mile',41.894298,-87.623712,'663 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Adidas',41.899409,-87.626647,'923 N Rush St, Chicago, IL 60611, USA'],
+    ['Apple',41.894806,-87.623855,'679 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['American Girl',41.898018,-87.622902,'835 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Bloomingdale’s',41.89954,-87.624471,'900 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Burberry',41.893572,-87.623865,'633 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Bulgari',41.8994,-87.62322,'909 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Cartier',41.893637,-87.624656,'630 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Chanel',41.900511,-87.623852,'935 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Crate & Barrel',41.893879,-87.624611,'646 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Dylan’s Candy Bar',41.890718,-87.623818,'445 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Ermenegildo Zegna',41.893931,-87.623612,'645 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Gap',41.892389,-87.623778,'555 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Gucci',41.89954,-87.624471,'900 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['H&M',41.898103,-87.624671,'840 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Louis Vuitton',41.899791,-87.623501,'919 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Macy’s',41.898018	-87.622902,'835 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Neiman Marcus',41.896067,-87.623583,'737 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Nike',41.894464,-87.62389,'669 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Nordstrom',41.891454,-87.62618,'55 E Grand Ave, Chicago, IL 60611, USA'],
+    ['Ralph Lauren',41.896496,-87.624596,'750 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Saks Fifth Avenue',41.895234,-87.624688,'700 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Salvatore Ferragamo',41.893931,-87.623612,'645 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Tiffany & Co.',41.895922,-87.624669,'730 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Tourbillon',41.892228,-87.623734,'545 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Under Armour',41.892933,-87.624926,'600 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['Uniqlo',41.897815,-87.62466,'830 N Michigan Ave, Chicago, IL 60611, USA'],
+    ['UGG',41.899495,-87.626785,'909 N Rush St, Chicago, IL 60611, USA'],
+    ['Zara',41.895234,-87.624688,'700 N Michigan Ave, Chicago, IL 60611, USA']
+  ]
+}
+
+

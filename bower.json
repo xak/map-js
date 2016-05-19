@@ -1,0 +1,21 @@
+{
+  "name": "strong-js",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zack Frazier <zack@zackfrazier.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thestrongelement/strong-js",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "strong-css": ">=0.0.6"
+  }
+}
